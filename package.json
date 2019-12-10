@@ -5,7 +5,7 @@
   "main": "spec/server.js",
   "dependencies": {},
   "devDependencies": {
-    "express": "4.13.4"
+    "express": "^4.17.1"
   },
   "scripts": {
     "test": "learn"
